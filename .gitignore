@@ -30,5 +30,3 @@ sysinfo.txt
 *.unitypackage
 
 # Models
-*.fbx
-*.c4d
